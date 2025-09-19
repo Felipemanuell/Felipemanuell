@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá, eu sou o Felipe Emanuel 👋
-- 🔭 Atualmente estou aprimorando minhas habilidades em **bancos de dados** e **desenvolvimento full stack** através de projetos pessoais e colaborativos.  
-- 🎯 Objetivo: unir conhecimento técnico e criatividade para desenvolver soluções que impactem positivamente pessoas e negócios.  
+- 🔭 Atualmente estou me aventurando pela área de tecnologia com foco em desenvolvimento web full-stack.  
+- 🎯 Objetivo: Agregar no mundo da tecnologia com inovações e resolução de problemas.
 
 ### Linguagens e Ferramentas que Utilizo
 <p align="center">
