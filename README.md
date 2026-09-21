@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 ---
 <div align="center">
   <h3>Entre em contato:</h3>
-  <a href="fe80648@gmail.com" target="_blank" class="badge">
+  <a href="fe80647@gmail.com" target="_blank" class="badge">
     <img width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/felipe-emanuel-a8070a27b" target="_blank" class="badge">
+  <a href="https://www.linkedin.com/in/felipemanuel" target="_blank" class="badge">
     <img width="83" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
   </a>
 </div>
