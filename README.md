@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=FELIPEMANUELL&show_icons=true" alt="Estatísticas do GitHub" />
   </picture>
 
-  <a href="https://github.com/Felipemanuell" target="_blank">
+  <a href="https://www.linkedin.com/in/felipemanuel" target="_blank">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=FELIPEMANUELL&layout=compact&langs_count=8&card_width=320&theme=github_dark" alt="Linguagens mais usadas" />
   </a>
 </div>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ---
 <div align="center">
   <h3>Entre em contato:</h3>
-  <a href="fe80647@gmail.com" target="_blank" class="badge">
+  <a href="mailto:fe806497@gmail.com" target="_blank" class="badge">
     <img width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
   </a>
   
